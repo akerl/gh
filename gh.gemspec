@@ -3,7 +3,7 @@ $LOAD_PATH.push File.expand_path("../lib", __FILE__)
 require "gh/version"
 
 Gem::Specification.new do |s|
-  s.name        = "gh"
+  s.name        = "gh-akerl"
   s.version     = GH::VERSION
   s.authors     = ["Konstantin Haase"]
   s.email       = ["konstantin.mailinglists@googlemail.com"]
@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'faraday',     '~> 0.8'
   s.add_runtime_dependency 'backports'
   s.add_runtime_dependency 'multi_json',  '~> 1.0'
-  s.add_runtime_dependency 'addressable', '~> 2.4'
+  s.add_runtime_dependency 'addressable', '~> 2.5'
   s.add_runtime_dependency 'net-http-persistent', '~> 2.9'
   s.add_runtime_dependency 'net-http-pipeline'
 end

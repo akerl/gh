@@ -1,3 +1,9 @@
+**NOTICE**: This is a fork of https://github.com/travis-ci/gh , with the following changes:
+
+* This notice added
+* Name of gem changed to "gh-akerl"
+* Addressable dependency bumped to ~> 2.5
+
 # GH - Layered GitHub API client
 [![Build Status](https://travis-ci.org/travis-ci/gh.svg?branch=master)](https://travis-ci.org/travis-ci/gh)
 
