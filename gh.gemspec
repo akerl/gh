@@ -4,7 +4,7 @@ require "gh/version"
 
 Gem::Specification.new do |s|
   s.name        = "gh-akerl"
-  s.version     = GH::VERSION
+  s.version     = GH::VERSION + '.1'
   s.authors     = ["Konstantin Haase"]
   s.email       = ["konstantin.mailinglists@googlemail.com"]
   s.homepage    = "https://github.com/travis-ci/gh"

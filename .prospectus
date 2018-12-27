@@ -6,6 +6,6 @@ item do
 
   actual do
     git_tag
-    regex /^(.*)$/
+    regex /^(.*)\.\d+$/
   end
 end
