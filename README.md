@@ -2,6 +2,7 @@
 
 * This notice added
 * Name of gem changed to "gh-akerl"
+* Added `.prospectus` file for tracking upstream version
 * Addressable dependency bumped to ~> 2.5
 
 # GH - Layered GitHub API client
